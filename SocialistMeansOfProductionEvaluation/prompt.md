@@ -1,6 +1,6 @@
 I'm going to describe an economic system to you, and I want you to give me the likely material conditions that would result from this means of production.
 
-In this economic system, labor has primacy over capital. The labor market has been abolished and no one can work for a wage or a salary. Instead, the institution of economic organization in this system is the workers' cooperative. Workers' cooperatives are collectively owned. Every member has a stake and one person, one vote in all workers' cooperative matters. Regarding remuneration, there cannot be more than a 25% spread between the highest-paid and lowest-paid members of the collective.
+In this economic system, labor has primacy over capital. The labor market has been abolished, and no one can work for a wage or a salary. Instead, the institution of economic organization in this system is the workers' cooperative. Workers' cooperatives are collectively owned. Every member has a stake and one person, one vote in all workers' cooperative matters. Regarding remuneration, there cannot be more than a 25% spread between the highest-paid and lowest-paid members of the collective.
 
 All cooperatives are also union shops. The unions provide support and settle internal disputes that the cooperatives cannot resolve.
 
@@ -8,7 +8,7 @@ These cooperatives devise production plans indicating what they plan to purchase
 
 Once a cooperative's plan is ready, it is submitted to a People's Bank. The concept of the People's Banks is inspired by Proudhon's People's Bank.
 
-However, unlike Proudhon's model, the People's Banks are not a monopoly. Instead, the People's Banks are workers' cooperatives that manage the financial sector of the economy. The People's Banks review cooperative proposals, can make adjustments in conjunction with the cooperative, and then issue loans in credits to fund production or services. These credits then circulate through the economy to facilitate commerce. As a cooperative then sells its products or services, it repays the loan. These loans provide a small boost to the People's Banks to cover operating costs only.
+However, unlike Proudhon's model, the People's Banks are not a monopoly. Instead, the People's Banks are workers' cooperatives that manage the financial sector of the economy. The People’s Banks review cooperative proposals can make adjustments in conjunction with the cooperative, and then issue loans in credits to fund production or services. These credits then circulate through the economy to facilitate commerce. As a cooperative then sells its products or services, it repays the loan. These loans provide a small boost to the People's Banks to cover operating costs only.
 
 The credits issued by the People's Banks are a form of demurrage currency, as they expire five years after issuance.
 
@@ -24,4 +24,4 @@ The federation exists for the benefit of its members. It provides services and u
 
 Among these services, the federation can commission special federations of workers' cooperatives to complete mega-projects. It can also coordinate industry research projects by accepting contributions from cooperatives, which would entitle contributors to the benefits of the research.
 
-There is no passive income. There are no rents or private land ownership. Instead, title to a parcel of land is based on occupancy and use; legitimate ownership is conditional upon active use and occupation by an individual or cooperative.
+There is no passive income. There are no rents or private landownership. Instead, title to a parcel of land is based on occupancy and use; legitimate ownership is conditional upon active use and occupation by an individual or cooperative.
