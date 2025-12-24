@@ -299,7 +299,7 @@ Sustainable land use systems (SLUS) contribute to climate action and peacebuildi
 
 - **Demurrage currency mechanics**: Credits expire after five years unless held in cooperative savings accounts, incentivizing circulation and investment.
 - **Prevention of hoarding and speculation**: Demurrage currency discourages accumulation for its own sake, promoting productive use and reducing systemic risk.
-- **Interest-free economy**: With currency designed for exchange, not storage, interest rates disappear, and banks profit from administrative fees, not rent extraction.
+- **Interest-free economy**: With currency designed for exchange, not storage, interest rates disappear, and banks fund themselves from administrative fees, not rent extraction.
 
 ### 8.3. Currency Stability and International Trade
 
