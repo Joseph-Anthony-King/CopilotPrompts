@@ -2,12 +2,6 @@
 
 ---
 
-## Introduction: Overview and Intent
-
-This report presents a comprehensive, clear, and concise rewrite of a post-capitalist economic and political system centered on a workers’ federation. The system replaces the bourgeois state with democratic institutions that embed solidarity and participatory values into financial and governance structures. The following sections systematically clarify the system’s theoretical foundations, institutional mechanisms, and operational details, ensuring logical organization and smooth transitions. All essential concepts and mechanisms from the original description are preserved, with redundancy and overly long sentences avoided. Where appropriate, tables and bullet points are used to summarize complex structures, followed by detailed explanatory paragraphs.
-
----
-
 ## System Summary: Core Principles and Structure
 
 The proposed post-capitalist system is built on the primacy of labor, collective ownership, and democratic control. It abolishes passive income, rents, and private landownership, ensuring that economic and political power is exercised through federated workers’ cooperatives and local councils. The system’s governance is divided into four branches—executive, legislative, judicial, and economic—with the economic branch responsible for macroeconomic planning and oversight of public utilities. Currency is replaced by labor certificates, issued according to the labor theory of value, and mutual aid societies provide the social safety net in place of traditional welfare. Foreign trade and investment are facilitated through convertible labor certificates and direct contracting with cooperatives.
@@ -29,6 +23,10 @@ The four-branch government structure expands traditional models by adding an eco
 
 The executive branch administers policies and manages day-to-day governance, while the legislative branch enacts laws and oversees constitutional amendments. The judicial branch resolves disputes and enforces constitutional provisions, ensuring accountability and legal integrity. The economic branch, unique to this system, is responsible for planning, resource allocation, and the management of public utilities, operating through democratic assemblies and cooperative boards.
 
+Of note, the legislative branch is a bicameral legislature.  The lower house represents the full territorial expanse of the federation and the lower house is divided into rational administrative units set with respect to geography and history so that these units can be considered equal and representative.  The repesentation will then be apportioned based on elections with proportional representation.
+
+The upper house is meant to serve as a check on majoritarian power, it's similar to the house of lords in the United Kingdom accept that qualification for this electorate is limited to the decendents of indigenous peoples and those whose ancestery can be at least 50% attributed to the decedent of a slave. The justification is that these two groups can trace their oppression and exploitation to land, this is compared to the house of lords which traced eligibility to ownership of land. This house serves two purposes, it has a veto on the lower house and serves as a court of last resort in capital punishment cases.
+
 ---
 
 ## Workers’ Federation: Replacing the Bourgeois State
@@ -41,9 +39,9 @@ By replacing the bourgeois state, the workers’ federation eliminates hierarchi
 
 ## Economic Branch: Governance, Planning, and Public Utilities
 
-The economic branch is responsible for macroeconomic planning, the management of public utilities, and the coordination of cooperative production. It operates through assemblies composed of delegates from workers’ cooperatives and local councils. These assemblies set production targets, allocate resources, and oversee the operation of essential services such as energy, water, transportation, and communications.
+The economic branch is responsible for macroeconomic planning, the management of public utilities, and the coordination of cooperative production. It operates through assemblies composed of delegates from workers’ cooperatives and local councils. These assemblies  oversee the operation of essential services such as energy, water, transportation, and communications and serve as a clearing houses of financial information in order to assist People's Banks in their operation. Over time, the likely economic evolution will entail the replacement of market mechanisms with oversight by the economic branch, this will be deliberative process managed by the people in the other three branches of government.
 
-Public utilities are managed as cooperatives or public trusts, with oversight by the economic branch. Decisions regarding investment, maintenance, and service standards are made democratically, ensuring transparency and accountability. The economic branch also coordinates long-term planning, balancing immediate needs with sustainability and innovation.
+Public utilities are managed as cooperatives or public trusts, with oversight by the economic branch. Decisions regarding investment, maintenance, and service standards are made democratically, ensuring transparency and accountability. The economic branch also coordinates long-term planning, balancing immediate needs with sustainability and innovation by way of coordinating information.
 
 ---
 
@@ -67,12 +65,14 @@ Land management is guided by principles of transparency, equity, and sustainabil
 
 Labor is given primacy over capital, and the traditional labor market is abolished. All enterprises with more than one worker must be organized as cooperatives, governed democratically by their members. Pay differentials within cooperatives are capped to prevent excessive inequality, with typical ratios ranging from 1:3 to 1:6 between the lowest and highest paid workers, as seen in successful models like Mondragon.
 
+Sole proprietorships are permitted.  As they exist within the broader framework of a cooperative economy they aren't seen as sources of oligarchic power and in fact serve as a release valve for highly individualistic individuals.
+
 Employment is no longer mediated by market competition; instead, workers collectively determine hiring, compensation, and working conditions. Cooperative governance ensures that all members have an equal voice in decision-making, fostering solidarity and mutual accountability. The abolition of the labor market eliminates wage labor as a commodity, embedding work within a framework of collective ownership and democratic control.
 
 ---
 
 ## Labor Certificates as Currency: Issuance, Valuation, and Expiry
-
+ 
 Labor certificates replace traditional currency, functioning as non-transferable vouchers issued to workers based on the labor contributed to cooperative production. These certificates are denominated in units of socially necessary labor time, reflecting the labor theory of value.
 
 ### Table 3: Labor Certificate Mechanisms
@@ -85,6 +85,8 @@ Labor certificates replace traditional currency, functioning as non-transferable
 | Redemption      | Expired certificates redeemed at Mutual Aid Society Stores | Stores absorb final transaction        |
 
 Labor certificates are issued by People's Banks according to cooperative production plans. They circulate freely in the economy for five years, usable at any cooperative store or service provider. After five years, certificates expire but remain valid for one final redemption transaction at Mutual Aid Society Stores, which absorb this last transaction and ensure the bearer can redeem the retained value. This completes the circuit of the labor certificate. Mutual Aid Society Stores are not the only stores in the economy—they serve the specific function of closing the certificate lifecycle. Certificates cannot be transferred, traded, or used to acquire means of production, preventing their conversion into capital. This system ensures that income is directly linked to productive labor and eliminates opportunities for passive accumulation.
+
+In recognition of the fact that capital is a social relation there is a savings mechanism that can extend the life of the labor certificates beyond five years.  Savings accounts can hold the labor certificates and while held within the account their expiration is paused.  In order to prevent private individuals from developing stores of capital such accounts require a minimum of five federation citizens who have equal equity in the account, or foreign individuals who can also open such accounts so that labor certificates can integrate with the global market.
 
 ---
 
@@ -100,17 +102,17 @@ Governance structures include elected boards, participatory budgeting, and regul
 
 ## Mutual Aid Societies: Structure, Funding, and Social Safety Net
 
-Mutual Aid Societies replace traditional welfare systems, providing a decentralized and participatory social safety net. These societies are organized as cooperatives or nonprofit associations, partially subsidized by the financial system and contracting with cooperatives for services.
+Mutual Aid Societies replace traditional welfare systems, providing a decentralized and participatory social safety net. These societies are organized and contract with cooperatives for services, partially subsidized by the financial system and by contributions from their members.
 
 ### Table 4: Mutual Aid Society Structure
 
 | Type                  | Governance Model         | Funding Sources           | Services Provided             |
 |-----------------------|-------------------------|---------------------------|-------------------------------|
 | Local Mutual Aid      | Member assemblies       | Cooperative contracts, subsidies | Health, education, housing, emergency aid |
-| Federation-Sponsored  | Federation oversight    | Central subsidies         | Last-resort assistance        |
+| Federation-Sponsored  | Federation oversight    | Financial subsidies      | Last-resort assistance        |
 | Mutual Aid Stores     | Cooperative boards      | Certificate redemption    | Distribution of goods         |
 
-Mutual Aid Societies operate through democratic assemblies, with members participating in decision-making and resource management. Funding comes from cooperative contracts, public subsidies, and certificate redemption. Services include health care, education, housing, and emergency assistance. A federation-sponsored society exists as a last resort for those unable to access local support.
+Mutual Aid Societies operate through democratic assemblies, with members participating in decision-making and resource management. Funding comes from public subsidies from the financial system utility and member donations. Services include health care, education, housing, and emergency assistance. A federation-sponsored society exists as a last resort for those unable to access local support.
 
 Mutual Aid Society Stores serve a specific function in the economic system: they complete the circuit of labor certificates by accepting expired certificates for final redemption. After circulating for five years, certificates can no longer be used in regular commerce, but holders can redeem them at these stores to recover the remaining value. The stores absorb this final transaction, ensuring no value is lost. These stores are managed cooperatively, ensuring transparency and equitable access. It is important to note that Mutual Aid Society Stores are not the only retail outlets in the economy—cooperatives operate their own stores and service providers throughout the system. The unique role of Mutual Aid Society Stores is to close the lifecycle of labor certificates. The system emphasizes solidarity, reciprocity, and collective responsibility, advancing social cohesion and resilience.
 
@@ -118,9 +120,9 @@ Mutual Aid Society Stores serve a specific function in the economic system: they
 
 ## Convertible Labor Certificates and Foreign Trade Mechanisms n
 
-Foreign trade is facilitated through convertible labor certificates held in savings accounts at People’s Banks. These certificates can be exchanged for foreign currency or used to contract with foreign investors and cooperatives. The system ensures full or partial currency convertibility, subject to democratic oversight and regulatory compliance.
+Foreign trade is facilitated through convertible labor certificates held in savings accounts at People’s Banks. These certificates can be exchanged for foreign currency. The system ensures full currency convertibility, subject to regulatory compliance.
 
-Foreign investors may contract directly with cooperatives using foreign currency, with terms negotiated transparently and subject to cooperative governance. Export arrangements prioritize member interests and local development, balancing global competitiveness with social and environmental standards.
+Foreign investors may contract directly with cooperatives using foreign currency, with terms negotiated transparently and subject to cooperative governance. Thanks to the exchange rate foreigners can pay in foreign currency which is then converted into labor certificates. Export arrangements prioritize member interests and local development, balancing global competitiveness with social and environmental standards.
 
 The convertibility of labor certificates is managed to prevent speculative finance and ensure stability. Exchange rates are set based on labor value and international market conditions, with mechanisms for hedging and risk management.
 
@@ -128,7 +130,7 @@ The convertibility of labor certificates is managed to prevent speculative finan
 
 ## Pay Differentials Caps and Internal Cooperative Wage Governance
 
-Pay differentials within cooperatives are strictly capped, typically ranging from 1:3 to 1:6 between the lowest and highest paid workers. These caps are determined democratically by cooperative assemblies, balancing fairness, motivation, and organizational needs.
+Pay differentials within cooperatives are strictly capped ranging 1:3 between the lowest and highest paid workers. These caps are determined democratically by cooperative assemblies, balancing fairness, motivation, and organizational needs.
 
 Cooperatives employ transparent pay scales, with all members participating in setting compensation policies. Decisions are made collectively, and pay structures are regularly reviewed to ensure equity and sustainability. Training, skill development, and internal mobility are supported to promote multi-skilling and shared responsibility.
 
@@ -218,7 +220,7 @@ Historical mutual aid societies provided social services, education, and economi
 
 ## Operational Details: Production Planning and Cooperative Coordination
 
-Production planning is coordinated through assemblies of cooperative delegates, using participatory algorithms and labor-time accounting. Plans set output targets, allocate resources, and adjust for technological change, environmental constraints, and social priorities.
+Production planning is coordinated through the People's Banks, using participatory algorithms and labor-time accounting. Plans set output targets, allocate resources, and adjust for technological change, environmental constraints, and social priorities.
 
 Cooperative coordination is facilitated by federated networks, shared information systems, and regular meetings. Decision-making is transparent, inclusive, and responsive to member input. Mechanisms for feedback and adjustment ensure flexibility and resilience.
 
@@ -245,8 +247,3 @@ Labor certificates, People’s Banks, and mutual aid societies provide the insti
 Transition mechanisms, legal frameworks, and operational details are designed to ensure stability, resilience, and inclusivity. Comparative models and historical precedents demonstrate the viability and effectiveness of the system’s core principles.
 
 In sum, the system integrates solidarity, democracy, and accountability at every level, offering a clear and concise blueprint for a just and sustainable post-capitalist society.
-
----
-Thanks, Joe — I’ve started researching how to rewrite your detailed description of the workers’ federation and its economic system into a clearer, more concise, and well-structured report. I’ll preserve all the theoretical and institutional content while improving clarity, organization, and flow.
-
-This will take me several minutes, so feel free to leave — I'll keep working in the background. Your report will be saved in this conversation.
